@@ -1,9 +1,9 @@
 # Predicting-Sepsis-Induced-Coagulopathy-Progression-to-Disseminated-Intravascular-Coagulation
 Dynamic Two-Stage Early Warning System for Sepsis-Induced Coagulopathy and Progression to Disseminated Intravascular Coagulation: A MIMIC-IV Study
 
-##Contributors - Rinaldo Brendon Patel, Amisha Kelkar, Chaitali Deshmukh, Pratik Mahajan
+**Contributors** - Rinaldo Brendon Patel, Amisha Kelkar, Chaitali Deshmukh, Pratik Mahajan
 
-##Abstract - Sepsis leading to Sepsis-induced coagulopathy (SIC) is an
+**Abstract** - Sepsis leading to Sepsis-induced coagulopathy (SIC) is an
 early manifestation of dysregulated host response and a
 recognized precursor to disseminated intravascular
 coagulation (DIC), a life-threatening critical condition
@@ -25,13 +25,13 @@ risk of subsequent progression toward DIC may allow for
 more timely management and possibly improve patient
 outcomes.
 
-##Objectives - To develop and validate a dynamic two-stage early-warning
+**Objectives** - To develop and validate a dynamic two-stage early-warning
 system that predicts SIC onset 24 hours before diagnostic
 criteria are met and identifies among patients with SIC
 those at risk of progression to life-threatening DIC, using
 high-granularity clinical data from MIMIC-IV .
 
-#Results - The Stage 1 model for early identification of sepsis-induced
+**Results** - The Stage 1 model for early identification of sepsis-induced
 coagulopathy (SIC) demonstrated strong discrimination and
 calibration. CatBoost achieved an AUROC of 0.93 and an
 AUPRC of 0.92, with high sensitivity (0.88) and specificity
